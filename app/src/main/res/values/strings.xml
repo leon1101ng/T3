@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile_imaege">profile image</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="web">Web</string>
+
+</resources>
